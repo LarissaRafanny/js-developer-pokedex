@@ -14,6 +14,13 @@ body {
     background-color: #fff;
 }
 
+ img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+ }
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
